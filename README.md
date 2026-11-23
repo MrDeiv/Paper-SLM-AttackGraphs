@@ -11,6 +11,8 @@ The pipeline takes an analyst-provided attack representation (STIX in our case s
 
 The enriched steps are organized into a graph that groups MITRE ATT&CK-aligned attack steps into tactic-level milestones. The whole pipeline runs locally: no CTI document is sent to external services.
 
+[![DOI](https://zenodo.org/badge/1468544801.svg)](https://doi.org/10.5281/zenodo.24463163)
+
 ![Pipeline overview](docs/pipeline_schema.jpg)
 
 ## Repository structure
