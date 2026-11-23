@@ -1,6 +1,14 @@
 # Merging Cyber Threat Intelligence Through Retrieval-Augmented Generation and Small Language Models for Rich Threat Representation
 
-This repository contains the source code, configuration, case-study data, generated outputs, and annotation material for the paper of the same title (submitted to the *Journal of Information Security and Applications*).
+This repository contains the source code, configuration, and case-study data for the paper of the same title (submitted to the *Journal of Information Security and Applications*).
+
+[![Code DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24463164.svg)](https://doi.org/10.5281/zenodo.24463164)
+[![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24463589.svg)](https://doi.org/10.5281/zenodo.24463589)
+
+| Material | Where |
+|---|---|
+| Source code, configuration, case-study inputs, annotation files (`annotation_round_1/`) | This repository, archived on Zenodo: [10.5281/zenodo.24463164](https://doi.org/10.5281/zenodo.24463164) |
+| Generated outputs (`output/`) and evaluation data (`evaluation/`) | Zenodo only, because of file size: [10.5281/zenodo.24463589](https://doi.org/10.5281/zenodo.24463589) |
 
 The pipeline takes an analyst-provided attack representation (STIX in our case studies) and a set of supporting Cyber Threat Intelligence (CTI) documents. For each attack step, it retrieves step-relevant evidence with a hybrid Retrieval-Augmented Generation (RAG) component and uses a locally deployed Small Language Model (SLM) to generate:
 
@@ -10,8 +18,6 @@ The pipeline takes an analyst-provided attack representation (STIX in our case s
 - traceable links to the evidence chunks used for generation.
 
 The enriched steps are organized into a graph that groups MITRE ATT&CK-aligned attack steps into tactic-level milestones. The whole pipeline runs locally: no CTI document is sent to external services.
-
-[![DOI](https://zenodo.org/badge/1468544801.svg)](https://doi.org/10.5281/zenodo.24463163)
 
 ![Pipeline overview](docs/pipeline_schema.jpg)
 
@@ -32,8 +38,8 @@ configs/
 sample_stix/                 # Input STIX representation of each case study
 documents/                   # Supporting CTI documents of each case study (zip)
 mitre/mitre-tactics.json     # MITRE ATT&CK tactic order used for milestones
-output/<case>/               # Pipeline outputs for the 10 case studies
-evaluation/
+output/<case>/               # Pipeline outputs for the 10 case studies (from Zenodo)
+evaluation/                  # SQuAD tuning scripts and evaluation data (from Zenodo)
   rag/squad/                 # Retrieval tuning on SQuAD (Appendix A of the paper)
   rag/results/squad_chunks/  # Tuning results and figures
   evaluation_outputs/        # Annotation units extracted from the outputs
@@ -42,6 +48,10 @@ annotation_round_1/          # Annotator files, adjudication and agreement resul
 scripts/                     # Annotation preparation, agreement and statistics
 figures/                     # Figures used in the paper
 ```
+
+## Getting the data
+
+The generated outputs and evaluation data are not stored on GitHub. Download the archive from [Zenodo](https://doi.org/10.5281/zenodo.24463589) and extract it in the repository root, so that `output/` and `evaluation/` sit next to `app2.py`.
 
 ## Requirements
 
@@ -205,6 +215,8 @@ If you use this work, please cite:
   year    = {2026}
 }
 ```
+
+To cite the code or the data directly, use their Zenodo DOIs: [10.5281/zenodo.24463164](https://doi.org/10.5281/zenodo.24463164) (code) and [10.5281/zenodo.24463589](https://doi.org/10.5281/zenodo.24463589) (outputs and evaluation data).
 
 ## License
 
