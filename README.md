@@ -204,5 +204,12 @@ If you use this work, please cite:
 }
 ```
 
+## License
+
+The code in this repository is released under the [MIT License](LICENSE).
+
+Third-party material keeps its original license: the NCSC malware analysis reports in `documents/` and the derived STIX files are © Crown copyright, and MITRE ATT&CK data is © The MITRE Corporation, used under the [ATT&CK Terms of Use](https://attack.mitre.org/resources/legal-and-branding/terms-of-use/).
+
 ## Contact
+
 Nicola Deidda, University of Cagliari – nicola.deidda@unica.it

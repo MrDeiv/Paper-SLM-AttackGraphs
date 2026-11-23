@@ -5,5 +5,5 @@ __pycache__/
 .vscode/
 data/
 bash
-*.jsonl
 *.sh
+*.jsonl
