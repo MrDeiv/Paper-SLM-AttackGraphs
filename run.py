@@ -1,40 +1,3 @@
-#!/usr/bin/env python3
-"""Lightweight CTI enrichment pipeline based on the original paper script.
-
-This version intentionally keeps the implementation close to the original
-`app.py`, but removes the expensive MITRE-technique matching stage and uses the
-already evaluated hybrid RAG setting.
-
-Pipeline summary
-----------------
-1. Load all configuration from configs/config.json.
-2. Load and chunk the case-study documents with DocumentFactory.
-3. Build the evaluated hybrid RAG retriever: BM25 + vector store.
-4. Parse the STIX intermediate representation and extract attack-pattern steps.
-5. For every extracted attack step:
-   - retrieve evidence chunks for description enrichment;
-   - generate an evidence-grounded enriched description;
-   - retrieve evidence chunks for preconditions;
-   - generate all preconditions returned by the model;
-   - retrieve evidence chunks for postconditions;
-   - generate all postconditions returned by the model;
-   - deterministically attach the retrieved evidence to each generated field.
-6. Write the enriched output, metrics, evidence/chunk files, and complete logs
-   under OUTPUT_DIR/CASE_ID.
-
-Important methodological choices
---------------------------------
-- The model does not select MITRE techniques. Technique metadata is taken from
-  the STIX attack-pattern object itself.
-- The model does not assign evidence, confidence, support_level, directness, or
-  status labels. Evidence is deterministically assigned by the script from the
-  retrieved chunks.
-- The model is not asked to limit the number of conditions. The script stores all
-  valid list items produced by the model after exact/semantic duplicate removal.
-- Each condition record includes the evidence chunks used to generate it.
-- No verifier is used.
-"""
-
 from __future__ import annotations
 
 import json
@@ -56,7 +19,7 @@ from tqdm import tqdm
 
 try:
     from sentence_transformers import SentenceTransformer, util as st_util
-except Exception:  # Keep the pipeline runnable even if the optional duplicate-check model is unavailable.
+except Exception:
     SentenceTransformer = None
     st_util = None
 
