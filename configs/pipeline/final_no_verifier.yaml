@@ -1,0 +1,32 @@
+run:
+  run_id: final_no_verifier
+
+models:
+  text_generation: deepseek-r1:8b
+  embedding_backend: sentence_transformer
+  embeddings: all-MiniLM-L6-v2
+  sentence_transformer: all-MiniLM-L6-v2
+
+llm_runtime:
+  num_ctx: 16384
+
+generation:
+  temperature: 0.0
+
+retrieval:
+  enabled: true
+  strategy: hybrid
+  bm25_k: 100
+  vector_k: 50
+  top_k: 50
+  hybrid_alpha: 0.25
+
+chunking:
+  strategy: semantic
+  max_chunk_size: 200
+
+cases:
+  - case_id: authentic
+    stix_file: sample_stix/ncsc-mar-authentic-antics-stix.json
+    documents_dir: documents/authentic/other
+    mitre_tactics_file: mitre/mitre-tactics.json

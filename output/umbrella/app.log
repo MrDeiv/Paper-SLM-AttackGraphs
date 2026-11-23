@@ -1,0 +1,55 @@
+[2026-07-12 20:54:50,907 INFO] Logging initialized at output\umbrella\app.log
+[2026-07-12 20:54:50,908 INFO] Application started for case umbrella
+[2026-07-12 20:55:01,727 INFO] Loaded 242 evidence chunks
+[2026-07-12 20:55:01,756 INFO] Use pytorch device_name: cpu
+[2026-07-12 20:55:01,756 INFO] Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2026-07-12 20:55:06,510 INFO] Loading faiss with AVX2 support.
+[2026-07-12 20:55:06,754 INFO] Successfully loaded faiss with AVX2 support.
+[2026-07-12 20:55:06,760 INFO] Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[2026-07-12 20:55:06,767 INFO] Hybrid retriever built in 5024.06 ms
+[2026-07-12 20:55:07,355 INFO] Use pytorch device_name: cpu
+[2026-07-12 20:55:07,366 INFO] Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2026-07-12 20:55:09,768 INFO] Loaded duplicate-detection embedding model: all-MiniLM-L6-v2
+[2026-07-12 20:55:09,846 INFO] Loaded 5 grouped tactic milestones from STIX
+[2026-07-12 20:55:09,846 INFO] Processing tactic milestone: execution
+[2026-07-12 20:55:37,280 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 20:56:35,491 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 20:57:55,159 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 20:58:40,961 INFO] Processing tactic milestone: persistence
+[2026-07-12 20:59:04,446 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 20:59:50,902 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:00:45,343 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:01:38,771 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:02:30,854 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:03:44,873 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:04:33,101 INFO] Processing tactic milestone: defense-evasion
+[2026-07-12 21:04:56,854 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:05:38,752 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:06:37,580 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:07:23,894 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:08:15,424 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:09:15,927 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:10:05,509 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:10:54,348 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:11:48,780 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:12:42,874 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:13:32,842 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:14:39,171 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:15:46,520 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:16:39,833 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:17:44,638 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:20:28,841 INFO] Processing tactic milestone: discovery
+[2026-07-12 21:20:51,867 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:21:38,847 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:22:51,195 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:23:38,461 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:24:27,067 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:25:25,723 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:26:11,954 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:27:04,019 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:27:54,349 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:28:21,876 INFO] Processing tactic milestone: command-and-control
+[2026-07-12 21:28:47,940 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:29:48,865 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:30:45,103 INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2026-07-12 21:32:02,569 INFO] Application finished in 37.19 minutes

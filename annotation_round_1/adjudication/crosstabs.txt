@@ -1,0 +1,1544 @@
+
+
+Crosstab for condition_validity:
+col_0   0   1    2  All
+row_0                  
+0      28  46  407  481
+1       3   6  103  112
+2       0   8  259  267
+All    31  60  769  860
+
+
+Crosstab for evidence_support:
+col_0   0   1    2  All
+row_0                  
+0      12   5   20   37
+1       9  13  179  201
+2       2  18  602  622
+All    23  36  801  860
+
+
+Crosstab for directness:
+col_0   0   1    2  All
+row_0                  
+0      31  10  274  315
+1      14   8  142  164
+2      26  14  341  381
+All    71  32  757  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0   1    2  All
+row_0                   
+0      120  20  149  289
+1        2   0   29   31
+2       50  25  465  540
+All    172  45  643  860
+
+
+Crosstab for non_redundancy:
+col_0   0   1    2  All
+row_0                  
+0      32   2   73  107
+1       9   6  114  129
+2      20   5  599  624
+All    61  13  786  860
+
+
+Crosstab for condition_validity:
+col_0   0   1    2  All
+row_0                  
+0      28  46  407  481
+1       3   6  103  112
+2       0   8  259  267
+All    31  60  769  860
+
+
+Crosstab for evidence_support:
+col_0   0   1    2  All
+row_0                  
+0      12   5   20   37
+1       9  13  179  201
+2       2  18  602  622
+All    23  36  801  860
+
+
+Crosstab for directness:
+col_0   0   1    2  All
+row_0                  
+0      31  10  274  315
+1      14   8  142  164
+2      26  14  341  381
+All    71  32  757  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0   1    2  All
+row_0                   
+0      120  20  149  289
+1        2   0   29   31
+2       50  25  465  540
+All    172  45  643  860
+
+
+Crosstab for non_redundancy:
+col_0   0   1    2  All
+row_0                  
+0      32   2   73  107
+1       9   6  114  129
+2      20   5  599  624
+All    61  13  786  860
+
+
+Crosstab for condition_validity:
+col_0   0   1    2  All
+row_0                  
+0      28  46  407  481
+1       3   6  103  112
+2       0   8  259  267
+All    31  60  769  860
+
+
+Crosstab for evidence_support:
+col_0   0   1    2  All
+row_0                  
+0      12   5   20   37
+1       9  13  179  201
+2       2  18  602  622
+All    23  36  801  860
+
+
+Crosstab for directness:
+col_0   0   1    2  All
+row_0                  
+0      31  10  274  315
+1      14   8  142  164
+2      26  14  341  381
+All    71  32  757  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0   1    2  All
+row_0                   
+0      120  20  149  289
+1        2   0   29   31
+2       50  25  465  540
+All    172  45  643  860
+
+
+Crosstab for non_redundancy:
+col_0   0   1    2  All
+row_0                  
+0      32   2   73  107
+1       9   6  114  129
+2      20   5  599  624
+All    61  13  786  860
+
+
+Crosstab for condition_validity:
+col_0   0   1    2  All
+row_0                  
+0      28  46  407  481
+1       3   6  103  112
+2       0   8  259  267
+All    31  60  769  860
+
+
+Crosstab for evidence_support:
+col_0   0   1    2  All
+row_0                  
+0      12   5   20   37
+1       9  13  179  201
+2       2  18  602  622
+All    23  36  801  860
+
+
+Crosstab for directness:
+col_0   0   1    2  All
+row_0                  
+0      31  10  274  315
+1      14   8  142  164
+2      26  14  341  381
+All    71  32  757  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0   1    2  All
+row_0                   
+0      120  20  149  289
+1        2   0   29   31
+2       50  25  465  540
+All    172  45  643  860
+
+
+Crosstab for non_redundancy:
+col_0   0   1    2  All
+row_0                  
+0      32   2   73  107
+1       9   6  114  129
+2      20   5  599  624
+All    61  13  786  860
+
+
+Crosstab for condition_validity:
+col_0   0   1    2  All
+row_0                  
+0      28  46  407  481
+1       3   6  103  112
+2       0   8  259  267
+All    31  60  769  860
+
+
+Crosstab for evidence_support:
+col_0   0   1    2  All
+row_0                  
+0      12   5   20   37
+1       9  13  179  201
+2       2  18  602  622
+All    23  36  801  860
+
+
+Crosstab for directness:
+col_0   0   1    2  All
+row_0                  
+0      31  10  274  315
+1      14   8  142  164
+2      26  14  341  381
+All    71  32  757  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0   1    2  All
+row_0                   
+0      120  20  149  289
+1        2   0   29   31
+2       50  25  465  540
+All    172  45  643  860
+
+
+Crosstab for non_redundancy:
+col_0   0   1    2  All
+row_0                  
+0      32   2   73  107
+1       9   6  114  129
+2      20   5  599  624
+All    61  13  786  860
+
+
+Crosstab for condition_validity:
+col_0   0   1    2  All
+row_0                  
+0      77   0  407  484
+1       0   6  103  109
+2       0   8  259  267
+All    77  14  769  860
+
+
+Crosstab for evidence_support:
+col_0   0   1    2  All
+row_0                  
+0      26   0   20   46
+1       0  13  179  192
+2       2  18  602  622
+All    28  31  801  860
+
+
+Crosstab for directness:
+col_0   0   1    2  All
+row_0                  
+0      55   0  274  329
+1       0   8  142  150
+2      26  14  341  381
+All    81  22  757  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0   1    2  All
+row_0                   
+0      142   0  149  291
+1        0   0   29   29
+2       50  25  465  540
+All    192  25  643  860
+
+
+Crosstab for non_redundancy:
+col_0   0   1    2  All
+row_0                  
+0      43   0   73  116
+1       0   6  114  120
+2      20   5  599  624
+All    63  11  786  860
+
+
+Crosstab for condition_validity:
+col_0   0   1    2  All
+row_0                  
+0      28  46  407  481
+1       3   6  103  112
+2       0   8  259  267
+All    31  60  769  860
+
+
+Crosstab for evidence_support:
+col_0   0   1    2  All
+row_0                  
+0      12   5   20   37
+1       9  13  179  201
+2       2  18  602  622
+All    23  36  801  860
+
+
+Crosstab for directness:
+col_0   0   1    2  All
+row_0                  
+0      31  10  274  315
+1      14   8  142  164
+2      26  14  341  381
+All    71  32  757  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for condition_validity:
+col_0   0   1    2  All
+row_0                  
+0      28  46  407  481
+1       3   6  103  112
+2       0   8  259  267
+All    31  60  769  860
+
+
+Crosstab for evidence_support:
+col_0   0   1    2  All
+row_0                  
+0      12   5   20   37
+1       9  13  179  201
+2       2  18  602  622
+All    23  36  801  860
+
+
+Crosstab for directness:
+col_0   0   1    2  All
+row_0                  
+0      31  10  274  315
+1      14   8  142  164
+2      26  14  341  381
+All    71  32  757  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0   1    2  All
+row_0                   
+0      120  20  149  289
+1        2   0   29   31
+2       50  25  465  540
+All    172  45  643  860
+
+
+Crosstab for non_redundancy:
+col_0   0   1    2  All
+row_0                  
+0      32   2   73  107
+1       9   6  114  129
+2      20   5  599  624
+All    61  13  786  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0    2  All
+row_0              
+0      28  453  481
+2       3  376  379
+All    31  829  860
+
+
+Crosstab for evidence_support:
+col_0   0    2  All
+row_0              
+0      12   25   37
+2      11  812  823
+All    23  837  860
+
+
+Crosstab for directness:
+col_0   0    2  All
+row_0              
+0      31  284  315
+2      40  505  545
+All    71  789  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0    2  All
+row_0               
+0      120  169  289
+2       52  519  571
+All    172  688  860
+
+
+Crosstab for non_redundancy:
+col_0   0    2  All
+row_0              
+0      32   75  107
+2      29  724  753
+All    61  799  860
+
+
+Crosstab for condition_validity:
+col_0   0   1    2  All
+row_0                  
+0      28  46  407  481
+1       3   6  103  112
+2       0   8  259  267
+All    31  60  769  860
+
+
+Crosstab for evidence_support:
+col_0   0   1    2  All
+row_0                  
+0      12   5   20   37
+1       9  13  179  201
+2       2  18  602  622
+All    23  36  801  860
+
+
+Crosstab for directness:
+col_0   0   1    2  All
+row_0                  
+0      31  10  274  315
+1      14   8  142  164
+2      26  14  341  381
+All    71  32  757  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0   1    2  All
+row_0                   
+0      120  20  149  289
+1        2   0   29   31
+2       50  25  465  540
+All    172  45  643  860
+
+
+Crosstab for non_redundancy:
+col_0   0   1    2  All
+row_0                  
+0      32   2   73  107
+1       9   6  114  129
+2      20   5  599  624
+All    61  13  786  860
+
+
+Crosstab for condition_validity:
+col_0   0   1    2  All
+row_0                  
+0      28  46  407  481
+1       3   6  103  112
+2       0   8  259  267
+All    31  60  769  860
+
+
+Crosstab for evidence_support:
+col_0   0   1    2  All
+row_0                  
+0      12   5   20   37
+1       9  13  179  201
+2       2  18  602  622
+All    23  36  801  860
+
+
+Crosstab for directness:
+col_0   0   1    2  All
+row_0                  
+0      31  10  274  315
+1      14   8  142  164
+2      26  14  341  381
+All    71  32  757  860
+
+
+Crosstab for meaningfulness:
+col_0    0    1  All
+row_0               
+0       19   15   34
+1      159  667  826
+All    178  682  860
+
+
+Crosstab for atomicity:
+col_0   0    1  All
+row_0              
+0      23   56   79
+1      16  765  781
+All    39  821  860
+
+
+Crosstab for type_validity:
+col_0    0   1    2  All
+row_0                   
+0      120  20  149  289
+1        2   0   29   31
+2       50  25  465  540
+All    172  45  643  860
+
+
+Crosstab for non_redundancy:
+col_0   0   1    2  All
+row_0                  
+0      32   2   73  107
+1       9   6  114  129
+2      20   5  599  624
+All    61  13  786  860
